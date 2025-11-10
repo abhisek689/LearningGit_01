@@ -1,4 +1,4 @@
 # LearningGit_01
 Hello World
 <br>
-Author - Abhisek Y
+Author - Abhisek Y (Learning Git)
